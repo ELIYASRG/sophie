@@ -1,0 +1,3 @@
+- Régler le problème de l'affichage de la favicon sur SAFARI 
+
+- About me section image sur tablette Editeur spck ...
